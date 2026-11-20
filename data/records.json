@@ -2,6 +2,7 @@
   "cuts": [
     {
       "id": "A01",
+      "airing_order": 1,
       "version": "正片",
       "text": [
         [
@@ -32,6 +33,7 @@
     },
     {
       "id": "A02",
+      "airing_order": 2,
       "version": "正片",
       "text": [
         [
@@ -52,11 +54,17 @@
           1000,
           2200,
           "青井染坊"
+        ],
+        [
+          2500,
+          4200,
+          "下集预告：染坊东主正是石绘的姐姐。"
         ]
       ]
     },
     {
       "id": "A03",
+      "airing_order": 3,
       "version": "正片",
       "text": [
         [
@@ -76,6 +84,7 @@
     },
     {
       "id": "A04",
+      "airing_order": 4,
       "version": "正片",
       "text": [
         [
@@ -100,7 +109,22 @@
       "screen": []
     },
     {
+      "id": "A05",
+      "airing_order": 5,
+      "version": "正片",
+      "text": [
+        [
+          0,
+          2500,
+          "石绘",
+          "染坊东主是我姐姐，别再猜了。"
+        ]
+      ],
+      "screen": []
+    },
+    {
       "id": "B01",
+      "airing_order": 1,
       "version": "轻剪",
       "text": [
         [
@@ -120,6 +144,7 @@
     },
     {
       "id": "B02",
+      "airing_order": 2,
       "version": "轻剪",
       "text": [
         [
@@ -145,6 +170,7 @@
     },
     {
       "id": "B03",
+      "airing_order": 3,
       "version": "轻剪",
       "text": [
         [
